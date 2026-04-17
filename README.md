@@ -28,7 +28,7 @@ Please manually download Qwen-Image-Edit-2509 model weights from the official Hu
 ├──── processor
 ```
 
-## Download pre-trained lora model for texture filtering
+## Download LoRA model for texture filtering
 Download the checkpoint folder from https://drive.google.com/drive/folders/1iYWIYosPxiKz0ok9wrz_ZjTlFmKsPHs0
 ```
 ├── checkpoint                  
