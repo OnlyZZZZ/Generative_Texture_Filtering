@@ -1,4 +1,5 @@
 # Generative Texture Filtering.
+## [Paper](https://arxiv.org/pdf/2604.19039)
 This is official code of Generative Texture Filtering (SIGGRAPH 2026 conference paper).
 ## Structure
 ```
